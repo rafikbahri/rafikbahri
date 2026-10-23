@@ -1,6 +1,6 @@
 # Hi, I'm Rafik Bahri 👋
 
-**Software Engineer · Site Reliability & Platform Engineering**
+**Software Engineer · Site Reliability, Platform Engineering, Infrastructure, & DevOps**
 
 📍 Working mainly remotely from the south of Paris, France 🇫🇷
 
