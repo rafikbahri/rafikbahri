@@ -34,10 +34,3 @@ I maintain the deployment tooling for [TheHive](https://strangebee.com/thehive/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rafik--bahri-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafik-bahri/)
 [![Blog](https://img.shields.io/badge/Blog-rafikbahri.com-111111?logo=rss&logoColor=white)](https://rafikbahri.com)
 [![GitHub](https://img.shields.io/github/followers/rafikbahri?label=Follow&style=social)](https://github.com/rafikbahri)
-
-## GitHub stats
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=rafikbahri&show_icons=true&hide_border=true&theme=transparent" alt="Rafik's GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafikbahri&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
-</p>
