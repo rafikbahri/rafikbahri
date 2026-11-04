@@ -24,6 +24,7 @@ I maintain the deployment tooling for [TheHive](https://strangebee.com/thehive/)
 ## Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TalosCon 2026](https://rafikbahri.com/blog/01-taloscon-2026/)
 - [Bastion Architecture on AWS using Terraform](https://rafikbahri.com/blog/00-bastion-aws-tf/)
 <!-- BLOG-POST-LIST:END -->
 
